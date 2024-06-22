@@ -1,4 +1,4 @@
-Projenin Amacı
+
 Bu proje, savaş ve normal fotoğrafları birbirinden ayırmak için bir derin öğrenme modeli geliştirmeyi amaçlamaktadır. Özellikle, TensorFlow ve Keras kullanılarak eğitimli bir MobileNetV2 modeli üzerine inşa edilen bu model, savaş içeren fotoğrafları tanımlamayı ve ayırmayı hedefler. Projenin nihai amacı, savaş durumlarının otomatik tespit edilmesi ve analiz edilmesine yardımcı olmaktır.
 
 Kullanılan Veri Setleri
